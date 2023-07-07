@@ -4,4 +4,12 @@ W tym repozytorium znajduje się errata do książki "Java w przykładach" autor
 
 ## Wydanie pierwsze - 06-2023
 
-Errata dla tego wydania obecnie nie zawiera żadnych wpisów.
+Wstęp - Wersje Java (drugi akapit)
+
+Jest:
+
+> Powodem jest to, że starsze wersje Java są dostępne od kilku lat i zawierają mniej błędów, niż najnowsze `wersji` kompilatora i Maszyny Wirtualnej Java.
+
+Powinno być:
+
+> Powodem jest to, że starsze wersje Java są dostępne od kilku lat i zawierają mniej błędów, niż najnowsze `wersje` kompilatora i Maszyny Wirtualnej Java.
